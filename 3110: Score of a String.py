@@ -12,3 +12,5 @@ class Solution:
             beg+=1
             end+=1 #add the index
         return score
+
+#38 ms runtime with 16.5mb of ram usage
