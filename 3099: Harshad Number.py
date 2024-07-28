@@ -7,4 +7,3 @@ class Solution:
             return sum(a)
         else:
             return -1
-#31 ms with 16.5mb ram usage
